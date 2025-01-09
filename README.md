@@ -1,6 +1,6 @@
 Lab 0 -- Welcome to 5008!
 
-This is the starting readme for this assignment. Please edit the following information by removing the "edit me" and replacing it with appropriate information for your assignment. If it is asking you a question, please provide a response. 
+This is the starting readme for this lab. Please edit the following information by removing the "edit me" and replacing it with appropriate information for your assignment. If it is asking you a question, please provide a response. 
 
     Name: edit me
     Github Account Name: edit me
