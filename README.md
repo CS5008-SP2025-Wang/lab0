@@ -11,7 +11,7 @@ For this assignment (and every assignment/lab), you must login into the servers 
 
 Important notes:
 
-Your code must compile and run on the Khoury machines to earn credit. Make sure you test your programs on these machines, as this is where we grade your assignments.
-You must commit any additional files(if any) into your repository so we can test your code.
+In general (but not for Lab 0), your code must compile and run on the Khoury machines to earn credit. Make sure you test your programs on these machines, as this is where we grade your assignments.
+You must commit any additional files (if any) into your repository so we can test your code.
 Points will be lost if you forget!
     
