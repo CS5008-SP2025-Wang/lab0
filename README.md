@@ -7,7 +7,7 @@ This is the starting readme for this assignment. Please edit the following infor
     
 Logistics
 
-For this assignment (and every assignment/lab), you must login into the servers through your_khoury_name@login.khoury.northeastern.edu to complete and test your work. The reason is that this is a consistent architecture where your submission will be graded.
+For this assignment (and every assignment/lab), you must login into the servers through your_khoury_name@login.khoury.northeastern.edu to complete (edit) and test your work. The reason is that this is a consistent architecture where your submission will be graded.
 
 Important notes:
 
